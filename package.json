@@ -1,0 +1,24 @@
+{
+  "name": "cypress-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunaymiri/Cypress-assignment.git"
+  },
+  "author": "Gunay Miriyeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunaymiri/Cypress-assignment/issues"
+  },
+  "homepage": "https://github.com/gunaymiri/Cypress-assignment#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "cypress-v10-preserve-cookie": "^1.2.1",
+    "mocha": "^10.0.0",
+    "mocha-allure-reporter": "^1.4.0",
+    "mochawesome": "^7.1.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "home": {
+      "exploreCollectionBtn": "a[href$='/nl/collectie']",
+      "collectionHeader": ".heading-1.page-header-heading"  
+    },
+    "collection": {
+        "searchInput": "input[placeholder*='Zoek een kunstwerk']",
+        "resultQuantity": "span[class$='results']",
+        "firstPainting": "div[aria-posinset='1']",
+        "objectDataBtn": "button[aria-label$='Open Objectgegevens']",
+        "objectProperty": ".definition-list",
+        "objectPropertyValue": "dd"
+    }  
+}
